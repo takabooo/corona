@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "shoot.data.unityweb",
+"asmCodeUrl": "shoot.asm.code.unityweb",
+"asmMemoryUrl": "shoot.asm.memory.unityweb",
+"asmFrameworkUrl": "shoot.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
